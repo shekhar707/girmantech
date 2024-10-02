@@ -3,7 +3,7 @@
 This mobile app was built using **Flutter**, **Dart**, **Firebase**, and **BLoC** for state management. The primary goal is to help users search for employees within an organization by leveraging Firebase to handle data and backend operations. The app adheres to the UI/UX guidelines outlined in the Figma design prototype.
 
 ### Screenshots
-
+<p float="left">
 <img src="https://github.com/shekhar707/girmantech/blob/main/screenshots/Screenshot_1.png" width="90">
 <img src="https://github.com/shekhar707/girmantech/blob/main/screenshots/Screenshot_2.png" width="90">
 <img src="https://github.com/shekhar707/girmantech/blob/main/screenshots/Screenshot_3.png" width="90">
@@ -13,7 +13,7 @@ This mobile app was built using **Flutter**, **Dart**, **Firebase**, and **BLoC*
 <img src="https://github.com/shekhar707/girmantech/blob/main/screenshots/Screenshot_7.png" width="90">
 <img src="https://github.com/shekhar707/girmantech/blob/main/screenshots/Screenshot_8.png" width="90">
 <img src="https://github.com/shekhar707/girmantech/blob/main/screenshots/Screenshot_9.png" width="90">
-
+</p>
 
 ## Tech Stack
 

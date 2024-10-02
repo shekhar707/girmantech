@@ -4,15 +4,15 @@ This mobile app was built using **Flutter**, **Dart**, **Firebase**, and **BLoC*
 
 ### Screenshots
 
-![Home Screen](screenshots/Screenshot_1.jpg)
-![Home Screen](screenshots/Screenshot_2.jpg)
-![Home Screen](screenshots/Screenshot_3.jpg)
-![Home Screen](screenshots/Screenshot_4.jpg)
-![Home Screen](screenshots/Screenshot_5.jpg)
-![Home Screen](screenshots/Screenshot_6.jpg)
-![Home Screen](screenshots/Screenshot_7.jpg)
-![Home Screen](screenshots/Screenshot_8.jpg)
-![Home Screen](screenshots/Screenshot_9.jpg)
+![Home Screen](screenshots/Screenshot_1.png)
+![Home Screen](screenshots/Screenshot_2.png)
+![Home Screen](screenshots/Screenshot_3.png)
+![Home Screen](screenshots/Screenshot_4.png)
+![Home Screen](screenshots/Screenshot_5.png)
+![Home Screen](screenshots/Screenshot_6.png)
+![Home Screen](screenshots/Screenshot_7.png)
+![Home Screen](screenshots/Screenshot_8.png)
+![Home Screen](screenshots/Screenshot_9.png)
 
 
 ## Tech Stack

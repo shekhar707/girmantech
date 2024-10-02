@@ -4,15 +4,15 @@ This mobile app was built using **Flutter**, **Dart**, **Firebase**, and **BLoC*
 
 ### Screenshots
 
-![Home Screen](screenshots/Screenshot_1.png|width=90)
-![Home Screen](screenshots/Screenshot_2.png | width=90)
-![Home Screen](screenshots/Screenshot_3.png | width=90)
-![Home Screen](screenshots/Screenshot_4.png | width=90)
-![Home Screen](screenshots/Screenshot_5.png | width=90)
-![Home Screen](screenshots/Screenshot_6.png | width=90)
-![Home Screen](screenshots/Screenshot_7.png | width=90)
-![Home Screen](screenshots/Screenshot_8.png | width=90)
-![Home Screen](screenshots/Screenshot_9.png | width=90)
+<img src="https://github.com/shekhar707/girmantech/blob/main/screenshots/Screenshot_1.png" width="90">
+<img src="https://github.com/shekhar707/girmantech/blob/main/screenshots/Screenshot_2.png" width="90">
+<img src="https://github.com/shekhar707/girmantech/blob/main/screenshots/Screenshot_3.png" width="90">
+<img src="https://github.com/shekhar707/girmantech/blob/main/screenshots/Screenshot_4.png" width="90">
+<img src="https://github.com/shekhar707/girmantech/blob/main/screenshots/Screenshot_5.png" width="90">
+<img src="https://github.com/shekhar707/girmantech/blob/main/screenshots/Screenshot_6.png" width="90">
+<img src="https://github.com/shekhar707/girmantech/blob/main/screenshots/Screenshot_7.png" width="90">
+<img src="https://github.com/shekhar707/girmantech/blob/main/screenshots/Screenshot_8.png" width="90">
+<img src="https://github.com/shekhar707/girmantech/blob/main/screenshots/Screenshot_9.png" width="90">
 
 
 ## Tech Stack
